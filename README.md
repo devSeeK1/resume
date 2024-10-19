@@ -1,2 +1,1 @@
-# resume
-junior developer resume template
+https://roadmap.sh/projects/single-page-cv
